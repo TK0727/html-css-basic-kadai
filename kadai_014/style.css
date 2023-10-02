@@ -1,0 +1,43 @@
+.decoration{
+    text-align: center;
+    letter-spacing: 1.2em;
+    text-shadow:1px 1px 2px gray ;
+    border-bottom: solid 3px rgb(115, 115, 114);
+    
+}
+body{
+    font-family:"Arial","Meiryo",sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 2rem;
+}
+
+
+.h1m{
+ color: skyblue;
+}
+
+.h1p{
+    color:rgb(255,192,203);
+}
+
+.text-pink{
+    color: rgb(255,192,203);
+    text-align: center;
+}
+
+.text-blue{
+    color: skyblue;
+    text-align: center;
+ }
+ p{
+    text-align: center;
+ }
+ 
+ #parent div{
+    font-weight: bold;
+ }
